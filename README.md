@@ -8,6 +8,8 @@ Exercise in Week 40
 
 ### E01
 
+done
+
 ### E02
 
 ### E03
